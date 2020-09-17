@@ -12,6 +12,10 @@ public class A
 		System.out.println("Sub==A");
 	}
 	
+	public void multi()
+	{
+		System.out.println("Multi==A");
+	}
 	
 public static void main(String[] args) {
 	
