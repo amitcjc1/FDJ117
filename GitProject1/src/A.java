@@ -19,7 +19,7 @@ public class A
 	
 	public void div()
 	{
-		System.out.println("Div==A");
+		
 	}
 	
 	
