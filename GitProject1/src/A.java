@@ -17,6 +17,12 @@ public class A
 		System.out.println("Multi==A");
 	}
 	
+	public void div()
+	{
+		System.out.println("Div==A");
+	}
+	
+	
 public static void main(String[] args) {
 	
 	System.out.println("Hello");
